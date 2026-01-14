@@ -50,5 +50,5 @@ Here are some ideas to get you started:
   
 |Project Link   |Description  |Tools Used |Direct link  |
 |---            |---          |---        |---          |
-|👽 [Maven Challenge - Legacy of Pixar Films](https://github.com/KilroyCodes/Legacy-of-Pixar-Films)|Infographic showcasing the legacy of Pixar films over a 30 year period (1995-2024)|Tableau|[Tableau viz](https://public.tableau.com/app/profile/alyssa.yapyuco/viz/TheLegacyofPixarFilms/Dashboard1)|
-|💰 [Maven Challenge - MavenTech Team Sales](https://github.com/KilroyCodes/Maven-Sales-Challenge)|Interactive Tableau dashboard allowing managers to track their team's quarterly performance|Tableau|[Tableau viz](https://public.tableau.com/app/profile/alyssa.yapyuco/viz/CRMSalesOpportunities_17585641320930/Dashboard)|
+|👽 [Maven Challenge - Legacy of Pixar Films](https://github.com/KilroyCodes/Legacy-of-Pixar-Films)|Infographic showcasing the legacy of Pixar films over a 30 year period (1995-2024)<br>|Tableau|[Tableau viz](https://public.tableau.com/app/profile/alyssa.yapyuco/viz/TheLegacyofPixarFilms/Dashboard1)|
+|💰 [Maven Challenge - MavenTech Team Sales](https://github.com/KilroyCodes/Maven-Sales-Challenge)|Interactive Tableau dashboard allowing managers to track their team's quarterly performance<br>|Tableau|[Tableau viz](https://public.tableau.com/app/profile/alyssa.yapyuco/viz/CRMSalesOpportunities_17585641320930/Dashboard)|
