@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
 |Project Link   |Description  |Skills Used|Complexity  |
 |---            |---          |---        |---         |
-|[8-Week SQL Challenge](https://github.com/KilroyCodes/8-Week-SQL-Challenge)|Data with Danny has created a series of SQL challenges covering several skillsets|Joins (left, lateral), Case when, Date_trunc, Cast, Row_number, Temp tables|★★★☆☆<br>*Pizza runner got surprisingly complex towards the end!*|
+|[8-Week SQL Challenge](https://github.com/KilroyCodes/8-Week-SQL-Challenge)|Data with Danny has created a series of SQL challenges covering several skillsets|* Joins (left, lateral) * Case when, Date_trunc, Cast, Row_number, Temp tables|★★★☆☆<br>*Pizza runner got surprisingly complex towards the end!*|
 |[SQL Murder Mystery](https://github.com/KilroyCodes/SQL-Murder-Mystery)|There's been a murder in SQL city and the culprit can be found within the datatsets|Filtering, Joining tables in a relational database|★☆☆☆☆|
 
 ---  
