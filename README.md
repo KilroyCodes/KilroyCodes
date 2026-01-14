@@ -3,7 +3,7 @@ I'm Alyssa, and I enjoy learning coding core competencies in my spare time.
   
 I'm particularly interested in anything that involves customer insight and strategy, so expect to see a lot of SQL, a dash of Python, and have it all topped off with data visualisation.
   
-As I do more and more practice work, I'll upload to my repositories.
+As I do more and more practice work, I'll upload to my repositories.  
 Have a look at some of my projects using various data tools below!
 
 <!--
