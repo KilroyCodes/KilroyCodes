@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 ### SQL
   
-|Project Link   |Description  |Skills Used|Complexity  |
-|---            |---          |---        |---         |
+|Project Link   |Description  |Skills Used  |Complexity  |
+|---            |---          |---          |---         |
 |🗓️ [8-Week SQL Challenge](https://github.com/KilroyCodes/8-Week-SQL-Challenge)|Data with Danny has created a series of SQL challenges covering several skillsets|• Joins (left, lateral)<br>• Case/When<br>• Date_trunc<br>• Cast<br>• Row_number<br>• Temp tables|★★★☆☆<br>*Pizza runner got surprisingly complex towards the end!*|
 |🔪 [SQL Murder Mystery](https://github.com/KilroyCodes/SQL-Murder-Mystery)|There's been a murder in SQL city and the culprit can be found within the datatsets|• Filtering<br>• Joining tables in a relational database|★☆☆☆☆|
 
