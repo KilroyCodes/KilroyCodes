@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
 |Project Link   |Description  |Skills Used|Complexity  |
 |---            |---          |---        |---         |
-|[8-Week SQL Challenge](https://github.com/KilroyCodes/8-Week-SQL-Challenge)|Data with Danny has created a series of SQL challenges covering several skillsets|Joins (left, lateral), Case when, Date_trunc, Cast, Row_number, Temp tables|★★★☆☆ *Pizza runner got surprisingly complex towards the end!*|
+|[8-Week SQL Challenge](https://github.com/KilroyCodes/8-Week-SQL-Challenge)|Data with Danny has created a series of SQL challenges covering several skillsets|Joins (left, lateral), Case when, Date_trunc, Cast, Row_number, Temp tables|★★★☆☆   *Pizza runner got surprisingly complex towards the end!*|
 |[SQL Murder Mystery](https://github.com/KilroyCodes/SQL-Murder-Mystery)|There's been a murder in SQL city and the culprit can be found within the datatsets|Filtering, Joining tables in a relational database|★☆☆☆☆|
 
 ---  
@@ -40,8 +40,8 @@ Here are some ideas to get you started:
   
 |Project Link   |Description  |Key Libraries Used |Complexity  |
 |---            |---          |---                |---         |
-|[Superstore Analysis](https://github.com/KilroyCodes/Superstore-Analysis)|Using imaginary sales data from a superstore that sells various goods, I explore and visualise the data with the goal of producing a high-level presentation deck geared towards the key stakeholders|pandas, seaborn, matplotlib|★★★☆☆|
-|[Titanic - Machine Learning from Disaster](https://github.com/KilroyCodes/Titanic-Machine-Learning-from-Disaster-)|From the famous Kaggle challenge, I use machine learning to predict who will survive a shipwreck. In this repository, I showcase the usage of both Decision Tree and XGBoost|sklearn (Decision Tree, train test, Imputers, Encoders, Pipeline), xgboost|★★☆☆☆|
+|[Superstore Analysis](https://github.com/KilroyCodes/Superstore-Analysis)|Uses imaginary sales data from a superstore that sells various goods.  I explore and visualise the data with the goal of producing a high-level presentation deck geared towards the key stakeholders|pandas, seaborn, matplotlib|★★★☆☆|
+|[Titanic - Machine Learning from Disaster](https://github.com/KilroyCodes/Titanic-Machine-Learning-from-Disaster-)|From the famous Kaggle challenge, I use machine learning to predict who will survive a shipwreck.  In this repository, I showcase the usage of both Decision Tree and XGBoost|sklearn (Decision Tree, train test, Imputers, Encoders, Pipeline), xgboost|★★☆☆☆|
 |[House Prices - Advanced Regression Techniques](https://github.com/KilroyCodes/House-Prices-Advanced-Regression-Techniques)|In this Kaggle competition, I predict the sale prices of homes based on their features (e.g., number of rooms) using XGBoost coupled with Mutual Information|sklearn (mutual info regression, train test, Imputers, Encoders, Pipeline), xgboost, seaborn, matplotlib|★★☆☆☆|
   
 ---  
