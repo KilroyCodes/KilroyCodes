@@ -40,14 +40,14 @@ Here are some ideas to get you started:
   
 |Project Link   |Description  |Key Libraries Used |Complexity  |
 |---            |---          |---                |---         |
-|[Superstore Analysis](https://github.com/KilroyCodes/Superstore-Analysis)|Uses imaginary sales data from a superstore that sells various goods.<br>I explore and visualise the data with the goal of producing a high-level presentation deck geared towards the key stakeholders|pandas, seaborn, matplotlib|★★★☆☆|
-|[Titanic - Machine Learning from Disaster](https://github.com/KilroyCodes/Titanic-Machine-Learning-from-Disaster-)|From the famous Kaggle challenge, I use machine learning to predict who will survive a shipwreck.  In this repository, I showcase the usage of both Decision Tree and XGBoost|sklearn (Decision Tree, train test, Imputers, Encoders, Pipeline), xgboost|★★☆☆☆|
+|[Superstore Analysis](https://github.com/KilroyCodes/Superstore-Analysis)|Uses imaginary sales data from a superstore that sells various goods.<br><br>I explore and visualise the data with the goal of producing a high-level presentation deck geared towards the key stakeholders|pandas, seaborn, matplotlib|★★★☆☆|
+|[Titanic - Machine Learning from Disaster](https://github.com/KilroyCodes/Titanic-Machine-Learning-from-Disaster-)|From the famous Kaggle challenge, I use machine learning to predict who will survive a shipwreck.<br><br>In this repository, I showcase the usage of both Decision Tree and XGBoost|sklearn (Decision Tree, train test, Imputers, Encoders, Pipeline), xgboost|★★☆☆☆|
 |[House Prices - Advanced Regression Techniques](https://github.com/KilroyCodes/House-Prices-Advanced-Regression-Techniques)|In this Kaggle competition, I predict the sale prices of homes based on their features (e.g., number of rooms) using XGBoost coupled with Mutual Information|sklearn (mutual info regression, train test, Imputers, Encoders, Pipeline), xgboost, seaborn, matplotlib|★★☆☆☆|
   
 ---  
 ### Data Visualisation
   
-|Project Link   |Description  |Libraries Used |
-|---            |---          |---            |
-|[Maven Challenge - Legacy of Pixar Films](https://github.com/KilroyCodes/Legacy-of-Pixar-Films)|lorem|lorem|
-|[Maven Challenge - MavenTech Team Sales](https://github.com/KilroyCodes/Maven-Sales-Challenge)|lorem|lorem|
+|Project Link   |Description  |Tools Used |Direct link  |
+|---            |---          |---        |---          |
+|[Maven Challenge - Legacy of Pixar Films](https://github.com/KilroyCodes/Legacy-of-Pixar-Films)|Infographic showcasing the legacy of Pixar films over a 30 year period (1995-2024)|Tableau|[Tableau viz](https://public.tableau.com/app/profile/alyssa.yapyuco/viz/TheLegacyofPixarFilms/Dashboard1)|
+|[Maven Challenge - MavenTech Team Sales](https://github.com/KilroyCodes/Maven-Sales-Challenge)|Interactive Tableau dashboard allowing managers to track their team's quarterly performance|Tableau|[Tableau viz](https://public.tableau.com/app/profile/alyssa.yapyuco/viz/CRMSalesOpportunities_17585641320930/Dashboard)|
