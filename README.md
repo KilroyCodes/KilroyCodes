@@ -30,19 +30,19 @@ Here are some ideas to get you started:
 
 ### SQL
   
-|Project Link   |Description  |Skills Used|
-|---            |---          |---        |
-|[8-Week SQL Challenge](https://github.com/KilroyCodes/8-Week-SQL-Challenge)|Data with Danny has created a series of SQL challenges covering several skillsets|lorem ipsum|
-|[SQL Murder Mystery](https://github.com/KilroyCodes/SQL-Murder-Mystery)|There's been a murder in SQL city and the culprit can be found within the datatsets|lorem ipsum|
+|Project Link   |Description  |Skills Used|Complexity  |
+|---            |---          |---        |---         |
+|[8-Week SQL Challenge](https://github.com/KilroyCodes/8-Week-SQL-Challenge)|Data with Danny has created a series of SQL challenges covering several skillsets|lorem ipsum|★★☆☆☆|
+|[SQL Murder Mystery](https://github.com/KilroyCodes/SQL-Murder-Mystery)|There's been a murder in SQL city and the culprit can be found within the datatsets|Filtering, Joining tables in a relational database|★☆☆☆☆|
 
 ---  
 ### Python
   
-|Project Link   |Description  |Libraries Used |
-|---            |---          |---            |
-|[Superstore Analysis](https://github.com/KilroyCodes/Superstore-Analysis)|lorem ipsum|lorem|
-|[Titanic - Machine Learning from Disaster](https://github.com/KilroyCodes/Titanic-Machine-Learning-from-Disaster-)|lorem|lorem|
-|[House Prices - Advanced Regression Techniques](https://github.com/KilroyCodes/House-Prices-Advanced-Regression-Techniques)|lorem|lorem|
+|Project Link   |Description  |Key Libraries Used |Complexity  |
+|---            |---          |---                |---         |
+|[Superstore Analysis](https://github.com/KilroyCodes/Superstore-Analysis)|Using imaginary sales data from a superstore that sells various goods, I explore and visualise the data with the goal of producing a high-level presentation deck geared towards the key stakeholders|pandas, seaborn, matplotlib|★★★☆☆|
+|[Titanic - Machine Learning from Disaster](https://github.com/KilroyCodes/Titanic-Machine-Learning-from-Disaster-)|From the famous Kaggle challenge, I use machine learning to predict who will survive a shipwreck. In this repository, I showcase the usage of both Decision Tree and XGBoost|sklearn (Decision Tree, train test, Imputers, Encoders, Pipeline), xgboost|★★☆☆☆|
+|[House Prices - Advanced Regression Techniques](https://github.com/KilroyCodes/House-Prices-Advanced-Regression-Techniques)|In this Kaggle competition, I predict the sale prices of homes based on their features (e.g., number of rooms) using XGBoost coupled with Mutual Information|sklearn (mutual info regression, train test, Imputers, Encoders, Pipeline), xgboost, seaborn, matplotlib|
   
 ---  
 ### Data Visualisation
