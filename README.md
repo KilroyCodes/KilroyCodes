@@ -6,6 +6,8 @@ I'm particularly interested in anything that involves customer insight and strat
 As I do more and more practice work, I'll upload to my repositories.  
 Have a look at some of my projects using various data tools below!
 
+🔭**Currently Learning**: Building AI Agents
+
 <!--
 **KilroyCodes/KilroyCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
